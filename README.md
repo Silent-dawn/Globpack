@@ -1,7 +1,6 @@
 ## GlobPack
-![Buggy](https://media1.giphy.com/media/TlK63Eu7ki2P9xGfgFa/source.gif)
-This is a very in-development Modpack for Minecraft including Galacticraft, Mystcraft, Thaumcraft, Project E, RFtools, Recurrent Complex, Rouguelike Dungeons, and more.
 
+This is a very in-development Modpack for Minecraft including Galacticraft, Mystcraft, Thaumcraft, Project E, RFtools, Recurrent Complex, Rouguelike Dungeons, and more.
 
 ### How To Install | Update
 
