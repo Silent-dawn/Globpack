@@ -72,7 +72,6 @@
   "rftoolspower": "1.2.0",
   "immersivepetroleum": "1.1.9",
   "forge": "14.23.5.2846",
-  "auxiliumequivalence": "1.12.2-1.3.2",
   "phosphor-lighting": "1.12.2-0.2.6",
   "jjmeteor": "1.0.7",
   "integratedcrafting": "1.0.8",
