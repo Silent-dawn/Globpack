@@ -1,0 +1,84 @@
+{
+	"biome": "biomesoplenty:corrupted_sands",
+	"generationWeight": 8,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"isEnabled": true,
+	"blocks": {},
+	"entities": [
+		{
+			"entity": "minecraft:ghast",
+			"spawnWeight": 50,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "minecraft:zombie_pigman",
+			"spawnWeight": 100,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "minecraft:magma_cube",
+			"spawnWeight": 2,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "minecraft:enderman",
+			"spawnWeight": 1,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "zawa:meerkat",
+			"spawnWeight": 40,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:redkangaroo",
+			"spawnWeight": 35,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:africanlion",
+			"spawnWeight": 20,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "zawa:cockatoo",
+			"spawnWeight": 25,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6
+		}, 
+		{
+			"entity": "zawa:reticulatedgiraffe",
+			"spawnWeight": 5,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:grevyszebra",
+			"spawnWeight": 25,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:blackrhinoceros",
+			"spawnWeight": 30,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "enderiozoo:epicsquid",
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}
