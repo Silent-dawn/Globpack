@@ -38,7 +38,6 @@
   "abyssalcraft": "1.9.11",
   "jepb": "1.2.1",
   "topaddons": "1.12.2-1.11.0",
-  "refinedexchange": "2.1.1",
   "FML": "8.0.99.99",
   "thermalexpansion": "5.5.4",
   "enderiointegrationtic": "5.1.51",

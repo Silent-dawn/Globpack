@@ -1,0 +1,18 @@
+{
+  "id": "Blaze Spawner_-8624,63,1248",
+  "name": "Blaze Spawner",
+  "icon": "waypoint-normal.png",
+  "x": -8624,
+  "y": 63,
+  "z": 1248,
+  "r": 255,
+  "g": 0,
+  "b": 7,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    -1
+  ],
+  "persistent": true
+}
