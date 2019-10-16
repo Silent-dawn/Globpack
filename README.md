@@ -49,6 +49,8 @@ Do note however, not all mods are supported by Dynmap so not all blocks rendered
 
 You can however talk to players in-game using the live map if you want.
 
+*NOTE: The Dynmap is down for now due to crappy mod block state attempts to grab constantly failing, will re-enable once I get it more compliant.
+
 The Server is closed access, only for those helping test and develop.
 ---
 ### How To Install | Update
