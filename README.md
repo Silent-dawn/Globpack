@@ -41,16 +41,10 @@ This is a very in-development Forge based modpack for Minecraft including:
 13. Atum 2: Return Of The Sands
 14. The Betweenlands
 15. Ice And Fire: Dragons In A Whole New Light!
-& More.
+16. Lycanite's Mobs
+17. Agricraft
+18. & More.
 ---
-The Official Server I'm testing and building on is Dynmap equipped, so you can check out the map here: [Live Map](http://69.162.112.90:8123/)
-
-Do note however, not all mods are supported by Dynmap so not all blocks rendered are correct.
-
-You can however talk to players in-game using the live map if you want.
-
-*NOTE: The Dynmap is down for now due to crappy mod block state attempts to grab constantly failing, will re-enable once I get it more compliant.
-
 The Server is closed access, only for those helping test and develop.
 ---
 ### How To Install | Update
