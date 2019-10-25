@@ -47,15 +47,15 @@ This is a very in-development Forge based modpack for Minecraft including:
 19. Level Up! Reloaded
 20. And many, many more!
 
-Total Mod Count: 
+Total Mod Count: 294
 ---
 The Server is closed access, only for those helping test and develop.
 ---
 ### How To Install | Update
 
-Download the latest copy of the repo, and import it into the Twitch/Curse launcher.
+Download the latest copy of the repo, extract the zip inside of the zip, and import it into the Twitch/Curse launcher.
 
-For cracked clients, you'll need to use a cracked client and install by hand, you'll need to be creative.
+For cracked clients, you'll need to use a cracked client and install by hand, you'll need to be creative, including a forge profile.
 
 You can also use the other repo, but it's out of date.
 
