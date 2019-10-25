@@ -43,7 +43,11 @@ This is a very in-development Forge based modpack for Minecraft including:
 15. Ice And Fire: Dragons In A Whole New Light!
 16. Lycanite's Mobs
 17. Agricraft
-18. & More.
+18. Metamorph
+19. Level Up! Reloaded
+20. And many, many more!
+
+Total Mod Count: 
 ---
 The Server is closed access, only for those helping test and develop.
 ---
@@ -57,7 +61,9 @@ You can also use the other repo, but it's out of date.
 
 ---
 ### System Requirements
-You'll need Java 8, and at LEAST 6 GB (I personally allot 10 just for shits and giggles) of ram to spare for the pack.
+You'll need Java 8, and at LEAST 6 GB (I personally allot 10 just for shits and giggles) of RAM to spare for the pack.
 
 This pack is semi-toaster friendly, some getting 100+ fps in-game on dual core machines with tweaked configurations.
+
+This is not a promised performance rating as all hardware configs and setups vary, but it is common using stock settings I ship.
 
